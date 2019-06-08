@@ -1,7 +1,7 @@
 # AlpesCraft 2019 - Ateliers
 
 
-## Découvrez l’Example mapping par la pratique ([Thomas Pierrain]())
+## Découvrez l’Example mapping par la pratique ([Thomas Pierrain](https://github.com/tpierrain))
 
 Prérequis :
 - *Encore non renseignés par le conférencier*
@@ -11,7 +11,7 @@ Prérequis :
 Prérequis :
 - *Encore non renseignés par le conférencier*
 
-## Ping pong pair programming ([Nastasia Saby]())
+## Ping pong pair programming ([Nastasia Saby](https://github.com/NastasiaS))
 
 Prérequis :
 - *Encore non renseignés par le conférencier*
@@ -21,12 +21,12 @@ Prérequis :
 Prérequis :
 - Venir avec sa machine et son IDE (IntelliJ ou Eclipse)
 
-## Carpaccio d'éléphant ([Christophe Maldivi]() et [Emeric Fontaine]())
+## Carpaccio d'éléphant ([Christophe Maldivi](https://github.com/ChristopheMaldivi) et [Emeric Fontaine](https://github.com/EmericFo))
 
 Prérequis :
 - *Encore non renseignés par le conférencier*
 
-## Open Closed Principle - Le challenge ([Mathieu Cans]())
+## Open Closed Principle - Le challenge ([Mathieu Cans](https://github.com/mathieucans))
 
 Prérequis :
 - *Encore non renseignés par le conférencier*

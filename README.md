@@ -19,7 +19,7 @@ Prérequis :
 ## Maîtriser son IDE ([Rémy Sanlaville](https://github.com/sanlaville))
 
 Prérequis :
-- Venir avec sa machine et son IDE (IntelliJ ou Eclipse)
+- Les prérequis sont disponible sur le dépôt source de l'atelier : https://github.com/sanlaville/master-your-ide
 
 ## Carpaccio d'éléphant ([Christophe Maldivi](https://github.com/ChristopheMaldivi) et [Emeric Fontaine](https://github.com/EmericFo))
 

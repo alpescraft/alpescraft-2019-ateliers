@@ -14,7 +14,7 @@ Prérequis :
 ## Ping pong pair programming ([Nastasia Saby](https://github.com/NastasiaS))
 
 Prérequis :
-- *Encore non renseignés par le conférencier*
+- Un environnement de développement qui fonctionne dans le langage de votre choix. Un projet vide avec un framework de test qui fonctionne. Votre bonne humeur :)
 
 ## Maîtriser son IDE ([Rémy Sanlaville](https://github.com/sanlaville))
 

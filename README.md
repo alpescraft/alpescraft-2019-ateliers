@@ -6,10 +6,14 @@
 Prérequis :
 - *Encore non renseignés par le conférencier*
 
-## Pimper sa chaîne de build ([Laurent Tardif]())
+## Pimper sa chaîne de build ([Laurent Tardif](https://github.com/LaurentTardif))
 
 Prérequis :
-- *Encore non renseignés par le conférencier*
+- Docker installé et fonctionnel
+- Docker compose installé 
+- Récupérer les différentes images listées dans les docker compose : ([./Atelier_PimperSaChaineDeBuild/](./Atelier_PimperSaChaineDeBuild/))
+ 
+ ``` docker-compose -f docker-compose.yml -f docker-compose-Artifactory.yml -f .... ``` 
 
 ## Ping pong pair programming ([Nastasia Saby](https://github.com/NastasiaS))
 

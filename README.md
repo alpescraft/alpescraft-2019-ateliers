@@ -11,7 +11,7 @@ Prérequis :
 Prérequis :
 - Docker installé et fonctionnel
 - Docker compose installé 
-- Récupérer les différentes images listées dans les docker compose : ./telier_PimperSaChaineDeBuild/ 
+- Récupérer les différentes images listées dans les docker compose : ([./Atelier_PimperSaChaineDeBuild/](./Atelier_PimperSaChaineDeBuild/))
  
  ``` docker-compose -f docker-compose.yml -f docker-compose-Artifactory.yml -f .... ``` 
 

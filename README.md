@@ -36,4 +36,5 @@ Prérequis :
 ## Open Closed Principle - Le challenge ([Mathieu Cans](https://github.com/mathieucans))
 
 Prérequis :
-- *Encore non renseignés par le conférencier*
+- Pas besoin de matériel pour cet atelier, nous ferons un [mob programming](https://en.wikipedia.org/wiki/Mob_programming)
+- Venir avec l'envie d'apprendre et de partager, de participer ou simplement d'être spectateur

@@ -111,7 +111,7 @@ address = ":8080"
 # Default: ""
 #
 # domain = "docker.localhost"
-domain= "alpes.craft.ci"
+domain= "alpescraft.ci"
 
 # Expose containers by default in traefik
 #
